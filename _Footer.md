@@ -1,0 +1,1 @@
+Copyright © 2023 Yuto Nakamura, Yusuke Suzuki All Rights Reserved.
