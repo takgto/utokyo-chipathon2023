@@ -8,6 +8,6 @@ FPGA上のアプリケーション開発は通常、VerilogやVHDL等のHDL(Hard
 
 # 今回用いるFPGA
 
-今回用いるFPGAは[Kria KV260 Vision AI Starter Kit](https://japan.xilinx.com/products/som/kria/kv260-vision-starter-kit.html)というものですが、このFPGAは通常のFPGAに比べて特殊な構造になっています。具体的には、FPGA上にLinuxが動作するプロセッサ(PS)が載っていて、ソフトウェアプログラムが動作します。通常のFPGAの部分はPLと呼ばれ、PS上のプログラムからAXIというインターフェースを用いてPL上で作成した回路にアクセスをすることが出来ます。つまり、基本的な処理の流れはPSでプログラムとして行い、特定の処理をPL上の回路で高速化するというのが今回の開発の流れになります。
+今回用いるFPGAは[Kria KV260 Vision AI Starter Kit](https://japan.xilinx.com/products/som/kria/kv260-vision-starter-kit.html)というものですが、このFPGAは通常のFPGAに比べて特殊な構造になっています。具体的には、FPGA上にLinuxが動作するプロセッサ(PS)が載っていて、ソフトウェアプログラムが動作します。通常のFPGAの部分はPLと呼ばれ、PS上のプログラムからAXIというインターフェースを用いてPL上で作成した回路にアクセスをすることが出来ます。つまり、基本的な処理の流れはPSでプログラムとして行い、特定の処理をPL上の回路で高速化するというのが今回の開発の流れになります。みなさんが用いるVitisAIも、AIの処理部分をDPUという回路で高速化しています。
 
 FPGAの基礎的な知識については、[東大電気系の後期実験のwiki](https://exp.mtl.t.u-tokyo.ac.jp/2022/b3exp/-/wikis/aboutFPGA)が詳しいので、ぜひそちらも参考にしてみてください。
