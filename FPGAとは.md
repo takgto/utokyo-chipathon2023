@@ -1,6 +1,8 @@
 # FPGAとは
 FPGAとは、Field Programmable Gate Arrayの略であり、簡単に言うとプログラム可能回路です。LUT(Look Up Table)やFF(Flip Flop)などで構成されていて、それらが書き換わることで書き換え可能な回路を実現しています。FPGAは汎用プロセッサやソフトウェアと比べて高速、低電力で動作することで知られており、現在主に組み込み等の様々な場面で使用されています。例えば、今回作成する物体認識アプリケーションも車載での使用を意識したものです。
 
-FPGA上のアプリケーション開発は通常、VerilogやVHDL等のHDL(Hardware Description Language)を用いて開発されますが、今回用いるKria KV260 Vision AI Starter Kitは特殊な構造をしているため、HDLを用いなくても開発をすることが出来ます。HDLについて詳しく知りたい人は、VerilogやSystemVerilogで調べて見てください。
+# FPGA上のアプリケーションの開発
+
+FPGA上のアプリケーション開発は通常、VerilogやVHDL等のHDL(Hardware Description Language)を用いて開発されます。HDLはデジタル回路をプログラミング言語のように記述できる言語ですが、その構造はプログラミング言語とは異なっており、慣れてないうちは難しいかもしれません。今回用いるFPGAは特殊な構造をしているのでHDLを用いずにPythonやC++で開発することも可能です。
 
 FPGAの基礎的な知識については、[東大電気系の後期実験のwiki](https://exp.mtl.t.u-tokyo.ac.jp/2022/b3exp/-/wikis/aboutFPGA)が詳しいので、ぜひそちらも参考にしてみてください。
