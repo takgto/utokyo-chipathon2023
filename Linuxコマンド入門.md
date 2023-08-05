@@ -57,3 +57,11 @@ ls -lah # 容量とかも見る
 ```bash
 mkdir test
 ```
+
+## 7. cat
+意味：ファイルの中身を見る
+
+使いかた
+```bash
+cat file.txt
+```
