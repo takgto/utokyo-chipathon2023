@@ -1,1 +1,7 @@
 # 半導体デザインハッカソン2023 wiki
+
+- [FPGA初期化手順](https://github.com/yutyan0119/utokyo-chipathon2023/wiki/FPGA%E7%92%B0%E5%A2%83%E5%88%9D%E6%9C%9F%E5%8C%96%E6%89%8B%E9%A0%86)
+- [PC初期化手順](https://github.com/yutyan0119/utokyo-chipathon2023/wiki/PC%E7%92%B0%E5%A2%83%E5%88%9D%E6%9C%9F%E5%8C%96%E6%89%8B%E9%A0%86)
+- [手順書](https://github.com/yutyan0119/utokyo-chipathon2023/wiki/%E6%89%8B%E9%A0%86%E6%9B%B8)
+- [Linuxコマンド入門](https://github.com/yutyan0119/utokyo-chipathon2023/wiki/Linux%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%85%A5%E9%96%80)
+- [Vim入門](https://github.com/yutyan0119/utokyo-chipathon2023/wiki/Vim%E5%85%A5%E9%96%80)
