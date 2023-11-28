@@ -24,7 +24,7 @@ git clone https://github.com/takgto/yolov3-dlab
 **コピー元のパスは各個人に合わせること**
 
 ```bash
-cp /path/to/yolov3-608_best.weights　/home/x-nics-kuroda/my_vitisai/yolov3-dlab/work/backup
+cp /mnt/c/Users/x-nics-kuroda/Downloads/work/yolov3-608_best_weights/yolov3-608_best.weights　/home/x-nics-kuroda/Vitis-AI/yolov3-dlab/work/backup
 ```
 
 ## 5. Docker起動
