@@ -25,7 +25,7 @@ git clone https://github.com/takgto/yolov3-dlab
 ```bash
 cp /mnt/c/Users/x-nics-kuroda/Downloads/work/yolov3-608_best_weights/yolov3-608_best.weights　/home/x-nics-kuroda/Vitis-AI/yolov3-dlab/work/backup
 ```
-** 学習が終わらなかった場合には、Windowsの/Users/x-nics-kuroda/Downloads/work_best_weightsにあらかじめ用意されたyolov3-608_best.weghtsをコピーする **
+**学習が終わらなかった場合には、Windowsの/Users/x-nics-kuroda/Downloads/work_best_weightsにあらかじめ用意されたyolov3-608_best.weghtsをコピーする**
 ```bash
 cp /Users/x-nics-kuroda/Downloads/work_best_weights/yolov3-608_best_weights/yolov3-608_best.weights　/home/x-nics-kuroda/Vitis-AI/yolov3-dlab/work/backup
 ```
