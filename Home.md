@@ -1,6 +1,6 @@
 # 半導体デザインハッカソン2023 wiki
 
-- [FPGAとは](https://github.com/takgto/utokyo-chipathon2023/wiki/FPGA%E3%81%A8%E3%81%AF)
+- [FPGAとは](https://github.com/takgto/utokyo-chipathon2023/FPGA%E3%81%A8%E3%81%AF)
 - [FPGA初期化手順](https://github.com/takgto/utokyo-chipathon2023/wiki/FPGA%E7%92%B0%E5%A2%83%E5%88%9D%E6%9C%9F%E5%8C%96%E6%89%8B%E9%A0%86)
 - [PC初期化手順](https://github.com/takgto/utokyo-chipathon2023/wiki/PC%E7%92%B0%E5%A2%83%E5%88%9D%E6%9C%9F%E5%8C%96%E6%89%8B%E9%A0%86)
 - [手順書](https://github.com/takgto/utokyo-chipathon2023/wiki/%E6%89%8B%E9%A0%86%E6%9B%B8)
